@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a50dd5d0-2ed9-459d-8c5d-a56e388b5111" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hlavni.java" afterDir="false" />
-    </list>
+    <list default="true" id="a50dd5d0-2ed9-459d-8c5d-a56e388b5111" name="Changes" comment="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -62,11 +58,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680078892853</updated>
-      <workItem from="1680078894987" duration="344000" />
+      <workItem from="1680078894987" duration="702000" />
     </task>
+    <task id="LOCAL-00001" summary="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli.">
+      <created>1680079585590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680079585590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
   </component>
 </project>
