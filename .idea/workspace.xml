@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a50dd5d0-2ed9-459d-8c5d-a56e388b5111" name="Changes" comment="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
+    <list default="true" id="a50dd5d0-2ed9-459d-8c5d-a56e388b5111" name="Changes" comment="Přidání třídy Trida.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hlavni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hlavni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trida.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680078892853</updated>
-      <workItem from="1680078894987" duration="702000" />
+      <workItem from="1680078894987" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli.">
       <created>1680079585590</created>
@@ -67,14 +70,33 @@
       <option name="project" value="LOCAL" />
       <updated>1680079585590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Přidání třídy Trida.">
+      <created>1680079782977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680079782977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
-    <option name="LAST_COMMIT_MESSAGE" value="Hlavní třída Hlavni &#10;&#10;Třída Hlavní umí zatím jen vypsat Ahoj na konzoli." />
+    <MESSAGE value="Přidání třídy Trida." />
+    <option name="LAST_COMMIT_MESSAGE" value="Přidání třídy Trida." />
   </component>
 </project>
